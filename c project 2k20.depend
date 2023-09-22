@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1386420876 source:c:\users\hp\downloads\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 c:\users\hp\downloads\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1584329169 source:d:\c project 2k20\car.c
+	<stdio.h>
+	<string.h>
+	"car.h"
+	"conio2.h"
+	<time.h>
+	<stdlib.h>
+
+1584329169 d:\c project 2k20\car.h
+	<time.h>
+
+1386340778 d:\c project 2k20\conio2.h
+	<conio.h>
+	<windows.h>
+
+1584329169 source:d:\c project 2k20\main.c
+	<stdio.h>
+	<string.h>
+	"car.h"
+	"conio2.h"
+	<time.h>
+
+1584329169 source:d:\project - c 2k20-1\car rental system\car.c
+	<stdio.h>
+	<string.h>
+	"car.h"
+	"conio2.h"
+	<time.h>
+	<stdlib.h>
+
+1584329169 d:\project - c 2k20-1\car rental system\car.h
+	<time.h>
+
+1386340778 d:\project - c 2k20-1\car rental system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1584329169 source:d:\project - c 2k20-1\car rental system\main.c
+	<stdio.h>
+	<string.h>
+	"car.h"
+	"conio2.h"
+	<time.h>
+
