@@ -1,5 +1,7 @@
 # Car Rental System - C Language Menu Driven Project
 
+![image](https://github.com/mohit-thakur09/car-rental-system/assets/82665617/87bb3853-40db-4b93-bad7-27118e39e059)
+
 The **Car Rental System** is a menu-driven project developed in C language that provides both admin and customer portals for efficient car rental management. The admin portal allows administrators to add car details for rental, including car name, model, price, pickup, and drop-off details. Admins can also delete car details when needed. On the customer portal, users can view car details, check the number of available cars, prices, and rent a car from the pickup location and return it to any drop-off location.
 
 ## Features
@@ -17,6 +19,11 @@ The **Car Rental System** is a menu-driven project developed in C language that 
 - **Check Availability**: Customers can check the number of available cars for rent.
 
 - **Rent a Car**: Users can rent a car by selecting a pickup location and specifying a drop-off location.
+
+# Screenshot:
+
+![image](https://github.com/mohit-thakur09/car-rental-system/assets/82665617/2f61d145-516f-4a75-aadd-fa301bc65ede)
+
 
 ## Getting Started
 
